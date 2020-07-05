@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9EMYm2oVRpH4rvngdpadMcBBa2j8hhEEUG98X+JlGbkAIPaX9R2XMiVwMAE8q0z4EFxkbAGN3oPcvHa5z4HqJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lagau\\OneDrive\\Documents\\Git\\C#\\Indexer_Examples\\StoreIndexer\\StoreIndexer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lagau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
