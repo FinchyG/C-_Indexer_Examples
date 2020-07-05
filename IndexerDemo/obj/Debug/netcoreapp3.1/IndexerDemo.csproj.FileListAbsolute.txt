@@ -1,0 +1,13 @@
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.exe
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.genruntimeconfig.cache
