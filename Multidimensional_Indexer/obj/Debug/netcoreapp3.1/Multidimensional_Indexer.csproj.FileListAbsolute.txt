@@ -1,0 +1,13 @@
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\bin\Debug\netcoreapp3.1\Multidimensional_Indexer.exe
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\bin\Debug\netcoreapp3.1\Multidimensional_Indexer.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\bin\Debug\netcoreapp3.1\Multidimensional_Indexer.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\bin\Debug\netcoreapp3.1\Multidimensional_Indexer.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\bin\Debug\netcoreapp3.1\Multidimensional_Indexer.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\bin\Debug\netcoreapp3.1\Multidimensional_Indexer.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\obj\Debug\netcoreapp3.1\Multidimensional_Indexer.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\obj\Debug\netcoreapp3.1\Multidimensional_Indexer.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\obj\Debug\netcoreapp3.1\Multidimensional_Indexer.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\obj\Debug\netcoreapp3.1\Multidimensional_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\obj\Debug\netcoreapp3.1\Multidimensional_Indexer.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\obj\Debug\netcoreapp3.1\Multidimensional_Indexer.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Indexer_Examples\Multidimensional_Indexer\obj\Debug\netcoreapp3.1\Multidimensional_Indexer.genruntimeconfig.cache
